@@ -1,7 +1,7 @@
 {
   "name": "bootcamp-homework-20",
-  "homepage": "https://basovchemeduardosanchez.github.io/bootcamp-homework-020",
   "version": "0.1.0",
+  "homepage": "https://basovchemeduardosanchez.github.io/bootcamp-homework-020",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
