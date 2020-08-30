@@ -1,0 +1,33 @@
+/* Create a pseudo-element before all of the children of the body */
+body:before {
+  /* This makes the pseudoelement appear */
+  content: "";
+  background: url( './page-background.jpg' );
+  /* Make the background element to be independent of scroll bars */
+  position: fixed;
+  /* Make the image 100% of the viewport width */
+  width: 100vw;
+  /* Make the image as tall as the body */
+  height: 100%;
+  /* Do not repeat the background */
+  background-repeat: no-repeat;
+  /* Center the background in the page */
+  background-position: center;
+  /* Adapt the image to the container preserving the proportions */
+  background-size: cover;
+  /* Position the image at the top of its container */
+  top: 0;
+  /* Stretch the image to the bottom of the container */
+  bottom: 0;
+  /* Move the image back */
+  z-index: -1;
+}
+.Portfolio-card > .card-header {
+  background-image: url( './dark-gray-metal-background.svg' );
+  background-repeat: no-repeat;
+  background-size: cover
+}
+.Portfolio-card,
+.Portfolio-card .card.bg-secondary {
+  background-color: #0005 !important;
+}

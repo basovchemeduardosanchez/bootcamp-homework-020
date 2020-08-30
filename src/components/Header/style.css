@@ -1,0 +1,10 @@
+.Portfolio-header-logoBar {
+    background-image: url( '../../light-gray-metal-background.svg' );
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.Portfolio-header-menuBar {
+    background-image: url( '../../blue-metal-background.svg' );
+    background-repeat: no-repeat;
+    background-size: cover
+}
