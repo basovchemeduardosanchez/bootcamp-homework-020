@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4736dbd.chunk.css",
+    "main.js": "/static/js/main.0a5048de.chunk.js",
+    "main.js.map": "/static/js/main.0a5048de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a39e060c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a39e060c.js.map",
+    "static/js/2.08b316f1.chunk.js": "/static/js/2.08b316f1.chunk.js",
+    "static/js/2.08b316f1.chunk.js.map": "/static/js/2.08b316f1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ce9a07d100af68b15c7f35db742998f.js": "/precache-manifest.3ce9a07d100af68b15c7f35db742998f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b4736dbd.chunk.css.map": "/static/css/main.b4736dbd.chunk.css.map",
+    "static/js/2.08b316f1.chunk.js.LICENSE.txt": "/static/js/2.08b316f1.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/light-gray-metal-background.ed5ec1e3.svg",
+    "static/media/App.css": "/static/media/page-background.3979cb48.jpg",
+    "static/media/profile-picture.jpg": "/static/media/profile-picture.01242cad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39e060c.js",
+    "static/js/2.08b316f1.chunk.js",
+    "static/css/main.b4736dbd.chunk.css",
+    "static/js/main.0a5048de.chunk.js"
+  ]
+}
