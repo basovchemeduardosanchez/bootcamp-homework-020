@@ -9,10 +9,11 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter >
+    // See https://medium.com/@svinkle/how-to-deploy-a-react-app-to-a-subdirectory-f694d46427c1
+    <BrowserRouter basename={process.env.PUBLIC_URL} >
       <Header />
       <Switch>
-        <Route exact path={['/about', '/']} >
+        <Route exact path={[`/about`, '/']} >
           <About />
         </Route>
         <Route exact path={['/portfolio']} >

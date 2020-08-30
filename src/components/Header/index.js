@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, withRouter } from 'react-router-dom';
 import NavItem from '../NavItem';
 import './style.css';
 
@@ -7,7 +7,7 @@ function Header(){
     return (
         <header className="Portfolio-header">
             <nav className="Portfolio-header-logoBar navbar navbar-light bg-light">
-                <Link className="navbar-brand" to="/" >
+                <Link className="navbar-brand" to="./" >
                     Eduardo Sánchez Villafán's portfolio
                 </Link>
             </nav>
@@ -22,4 +22,4 @@ function Header(){
     );
 }
 
-export default Header;
+export default withRouter( Header );
