@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/bootcamp-homework-020/static/css/main.2d0af7d6.chunk.css",
-    "main.js": "/bootcamp-homework-020/static/js/main.70ee589b.chunk.js",
-    "main.js.map": "/bootcamp-homework-020/static/js/main.70ee589b.chunk.js.map",
+    "main.js": "/bootcamp-homework-020/static/js/main.03899a24.chunk.js",
+    "main.js.map": "/bootcamp-homework-020/static/js/main.03899a24.chunk.js.map",
     "runtime-main.js": "/bootcamp-homework-020/static/js/runtime-main.43910785.js",
     "runtime-main.js.map": "/bootcamp-homework-020/static/js/runtime-main.43910785.js.map",
-    "static/js/2.08b316f1.chunk.js": "/bootcamp-homework-020/static/js/2.08b316f1.chunk.js",
-    "static/js/2.08b316f1.chunk.js.map": "/bootcamp-homework-020/static/js/2.08b316f1.chunk.js.map",
+    "static/js/2.3878f833.chunk.js": "/bootcamp-homework-020/static/js/2.3878f833.chunk.js",
+    "static/js/2.3878f833.chunk.js.map": "/bootcamp-homework-020/static/js/2.3878f833.chunk.js.map",
     "index.html": "/bootcamp-homework-020/index.html",
-    "precache-manifest.c82701260675fea6c361f5c174782652.js": "/bootcamp-homework-020/precache-manifest.c82701260675fea6c361f5c174782652.js",
+    "precache-manifest.adb20eefdb9852565b76fa43140adbcc.js": "/bootcamp-homework-020/precache-manifest.adb20eefdb9852565b76fa43140adbcc.js",
     "service-worker.js": "/bootcamp-homework-020/service-worker.js",
     "static/css/main.2d0af7d6.chunk.css.map": "/bootcamp-homework-020/static/css/main.2d0af7d6.chunk.css.map",
-    "static/js/2.08b316f1.chunk.js.LICENSE.txt": "/bootcamp-homework-020/static/js/2.08b316f1.chunk.js.LICENSE.txt",
+    "static/js/2.3878f833.chunk.js.LICENSE.txt": "/bootcamp-homework-020/static/js/2.3878f833.chunk.js.LICENSE.txt",
     "static/media/style.css": "/bootcamp-homework-020/static/media/light-gray-metal-background.ed5ec1e3.svg",
     "static/media/App.css": "/bootcamp-homework-020/static/media/page-background.3979cb48.jpg",
     "static/media/profile-picture.jpg": "/bootcamp-homework-020/static/media/profile-picture.01242cad.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.43910785.js",
-    "static/js/2.08b316f1.chunk.js",
+    "static/js/2.3878f833.chunk.js",
     "static/css/main.2d0af7d6.chunk.css",
-    "static/js/main.70ee589b.chunk.js"
+    "static/js/main.03899a24.chunk.js"
   ]
 }
